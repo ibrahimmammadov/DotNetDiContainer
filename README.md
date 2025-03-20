@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a custom Dependency Injection (DI) container in .NET 8, supporting Singleton, Transient, and Scoped lifetimes. The DI container provides a simple yet flexible way to manage service lifetimes and dependencies within your .NET applications.
+This project implements a custom Dependency Injection (DI) container in .NET 8, supporting Singleton, Transient, and Scoped lifetimes. The DI container provides a simple, flexible way to manage service lifetimes and dependencies within your .NET applications.
 
 ## Features
 
